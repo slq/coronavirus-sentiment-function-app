@@ -1,0 +1,1 @@
+# Coronavirus Sentiment Analysis Azure Function App
